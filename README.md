@@ -4,7 +4,7 @@
 <a href="https://www.instagram.com/georgi_msam/">
   <img align="left" alt="GS | Instagram" width="21px" src="https://github.com/rycky5/rycky5/blob/main/assets/instagram.svg" />
 </a>
-<a href="">
+<a href="https://t.me/georgi_msam">
   <img align="left" alt="GS | Telegram" height="21px" src="https://github.com/rycky5/rycky5/blob/main/assets/Telegram.png" />
 </a>
 <br>
