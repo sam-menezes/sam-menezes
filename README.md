@@ -13,7 +13,7 @@
 
 > * 21y
 > * Data Scientist | Academical in Enginnering (UFRPE)
-> * Brazil, Cabo de Santo Agostinho - PE
+> * Cabo de Santo Agostinho - PE, Brazil
   
 ### AI/ML:
 [<code>
