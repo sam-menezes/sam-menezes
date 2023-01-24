@@ -1,11 +1,11 @@
 # Georginerio Menezes Sampaio Filho (georgi) 
 <a href="https://www.linkedin.com/in/georginerio-sampaio-314b131b1/">
-  <img align="left" alt="GS | Linkedin" width="21px" src="https://github.com/rycky5/rycky5/blob/main/assets/linkedin.svg" />
+  <img align="left" alt="GS | Linkedin" width="21px" src="https://user-images.githubusercontent.com/72347065/214357544-ed3aa871-c267-475c-8039-5449c1f44b4c.png" />
 <a href="https://www.instagram.com/georgi_msam/">
-  <img align="left" alt="GS | Instagram" width="21px" src="https://github.com/rycky5/rycky5/blob/main/assets/instagram.svg" />
+  <img align="left" alt="GS | Instagram" width="21px" src="https://user-images.githubusercontent.com/72347065/214357830-5065e8dc-6909-46fa-9386-48b1c2e429d6.png" />
 </a>
 <a href="https://t.me/georgi_msam">
-  <img align="left" alt="GS | Telegram" height="21px" src="https://github.com/rycky5/rycky5/blob/main/assets/Telegram.png" />
+  <img align="left" alt="GS | Telegram" height="21px" src="https://user-images.githubusercontent.com/72347065/214358027-6a0edd29-cde4-41db-ac2a-cfa639e55d2c.png" />
 </a>
 <br>
 
@@ -16,48 +16,15 @@
 > * Cabo de Santo Agostinho, State of Pernambuco, Brazil
   
 ### AI/ML:
-[<code>
-<img alt="TF" width="26px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg">
-</code>]
-[<code>
-<img alt="pandas" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg">
-</code>]
-[<code>
-<img alt="seaborn" width="26px" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg">
-</code>]
-[<code>
-<img alt="sk" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">
-</code>]
-### Database:
-[<code>
-<img alt="mysql" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-</code>]
 
-[<code>
-<img alt="pg" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
-</code>]
-### Data Vizualization:
-[<code>
-<img alt="grafana" width="26px" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg">
-</code>]
+<p align="left"> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="30" height="30"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="30" height="30"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="30" height="30"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="" height="30"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="30" height="30"/> </a> </p>
+ 
 ### Programing Lenguage:
-[<code>
-<img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
-</code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<code>
-<img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
-</code>](https://www.python.org/)
-[<code>
-<img alt="c#" width="26px" src="https://img.icons8.com/color/344/c-sharp-logo.png">
-</code>]
-<br />
-
+  
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="30" height="30"/> </a> </p>
+  
+  
 ## REPOSITORY STATUS:
 *WARNING: As top Languages ​​don't indicate my skill level or anything similar it's just gith metric of which languages ​​I have more code below below.*
-
-> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sam-menezes&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sam-menezes&show_icons=true&theme=chartreuse-dark)
-
-
----
-<img src="https://visitor-badge.laobi.icu/badge?page_id=sam-menezes"/>   [![Gmail Badge](https://img.shields.io/badge/-georgineriosampaio@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:georgineriosampaio@gmail.com)](mailto:georgineriosampaio@gmail.com)
-
+  
+ ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sam-menezes&show_icons=true&theme=radical)
