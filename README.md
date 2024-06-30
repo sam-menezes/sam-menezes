@@ -11,9 +11,9 @@
 
 ## About Me:
 
-> * 21y
-> * Data Scientist | Academical in Enginnering (UFRPE)
-> * Cabo de Santo Agostinho, State of Pernambuco, Brazil
+> * 23y
+> * Data Scientist
+> *Recife, State of Pernambuco, Brazil
   
 ### AI/ML:
 
