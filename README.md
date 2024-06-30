@@ -13,7 +13,7 @@
 
 > * 23y
 > * Data Scientist
-> *Recife, State of Pernambuco, Brazil
+> * Recife, State of Pernambuco, Brazil
   
 ### AI/ML:
 
